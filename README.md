@@ -2,7 +2,10 @@
 <h1 align="center">Hi, I'm Ceymikey👋</h1>
 <h3 align="center">Welcome to my Github page</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ceymikey&label=Profile%20views&color=0e75b6&style=flat" alt="ceymikey" /> </p>
+<p>
+		<a href="https://discord.gg/djs"><img src="https://komarev.com/ghpvc/?username=ceymikey&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
+		<a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/badge/Main Language-Javascript-yellow" alt="main language" /></a>
+	</p>
 
 <p>Hi I am Ceymikey and I am a student from the netherlands that is trying to learn a lot of things. Like for example: Game development, Building full stack webapps, Building Discord bots and the list just goes on and on. You can find all my coding languages and programs below. I also develop and manage Minecraft servers mostly on the gameplay/quality side. I do not offer Ddos protection/server security services. DM me if you need me for your servers: (ceymikey#0) or join my Discord</p>
 

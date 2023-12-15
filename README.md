@@ -7,7 +7,7 @@
   <a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/badge/Main Language-Javascript-yellow" alt="main language" /></a>
 </p>
 
-<p>Hi, I am Ceymikey, a student from the Netherlands eager to learn various things. My interests include game development, building full-stack web apps, creating Discord bots, and much more. I also develop and manage Minecraft servers, mainly focusing on gameplay and quality. If you need assistance with your servers, feel free to DM me (ceymikey#0) or join my Discord.</p>
+<p>Hi, I am Ceymikey, a student from the Europe willing to learn various things. My interests include game development, building full-stack web apps, creating Discord bots, and much more. I also develop and manage Minecraft servers, mainly focusing on gameplay and quality. If you need assistance with your servers, feel free to DM me (ceymikey#0) or join my Discord.</p>
 
 <h3 align="left">My Socials:</h3>
 <p align="left">

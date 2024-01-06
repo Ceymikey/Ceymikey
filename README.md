@@ -1,9 +1,8 @@
-![MasterHead](https://camo.githubusercontent.com/2db36b2be52a6c61a0899eecc9b183e23aee6235c2c06803da5324150bda9200/68747470733a2f2f7777772e69736974656b2e66722f77702d636f6e74656e742f75706c6f6164732f323032302f30362f63626362632d373638783339302e706e67)
-<h1 align="center">Hi, I'm Ceymikey👋</h1>
+<h1 align="center">Hi, I'm Ceymikey⭐</h1>
 <h3 align="center">Welcome to my Github page</h3>
 
 <p>
-  <a href="https://discord.gg/djs"><img src="https://komarev.com/ghpvc/?username=ceymikey&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
+  <a href="https://github.com/Ceymikey"><img src="https://komarev.com/ghpvc/?username=ceymikey&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
   <a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/badge/Main Language-Javascript-yellow" alt="main language" /></a>
 </p>
 

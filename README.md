@@ -39,13 +39,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>
 </p>
 
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=ceymikey&show_icons=true&theme=default&count_private=true&hide_border=true&icon_color=41B883&title_color=41B883&text_color=34495E&bg_color=00000000" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceymikey&hide=html,stata,tex,jupyter%20notebook&layout=compact&hide_border=true&icon_color=41B883&title_color=41B883&text_color=34495E&bg_color=00000000" />
-    </td>
-  </tr>
-</table>
+|     |     |     |
+| --- | --- | --- |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=ceymikey&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ceymikey&theme=vue-dark&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceymikey&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
